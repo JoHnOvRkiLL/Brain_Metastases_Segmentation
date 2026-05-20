@@ -1,0 +1,6 @@
+/study
+/Dataset
+/.venv
+*.keras
+*.pth
+

@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy
+scipy
+matplotlib
+
+# Medical imaging
+nibabel
+
+# Deep learning
+tensorflow
+
+# Jupyter environment
+notebook
+ipykernel
+jupyterlab
+
+# Optional but commonly useful
+pandas
+scikit-learn
+
+torch
+torchvision
+torchaudio
