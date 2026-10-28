@@ -17,6 +17,8 @@ jupyterlab
 # Optional but commonly useful
 pandas
 scikit-learn
+scikit-image
+plotly
 
 torch
 torchvision
